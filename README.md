@@ -17,5 +17,5 @@ The implementation of the Cosine Similarity Kernel resulted in noticeable improv
 
 The Cosine Similarity Kernel, provided a fresh perspective that was more aligned with the data’s characteristics. This adjustment underscored the critical role of domain knowledge and iterative experimentation in machine learning endeavours.
 
-![download]([https://github.com/Daniel-Timms/bayesian-optimisation-imperial-capstone/blob/main/download.png)]
+![download](https://raw.githubusercontent.com/Daniel-Timms/bayesian-optimisation-imperial-capstone/main/download.png)]
 
