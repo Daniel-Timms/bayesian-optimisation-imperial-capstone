@@ -1,5 +1,4 @@
-# PROJECT TITLE 
-
+# BAYESIAN OPTIMISATION
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
 Bayesian optimization is a powerful strategy for improving the performance of machine learning models. Think of it as a highly intelligent trial-and-error process, but instead of randomly guessing, it uses past experiments to make smarter choices about what to try next. This project focuses on applying Bayesian optimization to fine-tune the settings of a predictive model, akin to finding the perfect recipe that makes a dish taste just right. Our goal is to demonstrate how this method can lead to better predictions with less guesswork and fewer trials.
@@ -18,5 +17,5 @@ The implementation of the Cosine Similarity Kernel resulted in noticeable improv
 
 The Cosine Similarity Kernel, provided a fresh perspective that was more aligned with the data’s characteristics. This adjustment underscored the critical role of domain knowledge and iterative experimentation in machine learning endeavours.
 
-![download](/Users/danieltimms/Desktop/download.png)
+![download]([/Users/danieltimms/Desktop/download.png](https://github.com/Daniel-Timms/bayesian-optimisation-imperial-capstone/blob/main/download.png)https://github.com/Daniel-Timms/bayesian-optimisation-imperial-capstone/blob/main/download.png)
 
